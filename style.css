@@ -1,0 +1,9 @@
+.MaintainProfile{
+  height: 100vh;
+  display: grid;
+  place-items: center; /* 垂直和水平置中 */
+}
+.introduction{
+  width: 600px;
+  height: 400px;
+}
